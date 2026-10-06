@@ -1,0 +1,1 @@
+This project is called OpenForge AI. It is a modular open-source AI agent harness.
